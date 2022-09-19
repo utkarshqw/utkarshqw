@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
-<h3 align="center">A passionate beginner front end developer from India</h3>
+<h3 align="center">A beginner frontend MERN developer who loves to learn new things and make great projects. Also loves to collaborate with other passionate people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshqw&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshqw" /> </p>
 
@@ -30,7 +30,6 @@
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=lokeshahire&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshqw&show_icons=true&locale=en" alt="utkarshqw" /></p>
