@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **utkarshup75@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
