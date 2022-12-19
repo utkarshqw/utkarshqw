@@ -15,14 +15,17 @@
 
 - 📫 How to reach me **utkarshup75@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/utkarsh62641724" target="blank"><img align="center" src"*" alt="utkarsh62641724" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-gupta-095a59232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-gupta-095a59232" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarshup75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshup75" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="https://linkedin.com/in/utkarshqw" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/utkarshqw" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 
