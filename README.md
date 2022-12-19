@@ -48,7 +48,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarshqw&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" /></p>
 
