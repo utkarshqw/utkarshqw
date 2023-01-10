@@ -16,6 +16,8 @@
 - 📫 How to reach me **utkarshup75@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="_blank">Resume</a>
+- 
+- 📄 Go to my leetcode profile<a href="https://leetcode.com/utkarsh_qw/">utkarsh_qw</a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -55,6 +57,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshqw&show_icons=true&locale=en" alt="utkarshqw" /></p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/utkarsh_qw?theme=default&font=baloo&extension=null)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" /></p>
