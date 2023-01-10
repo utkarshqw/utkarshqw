@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences  <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="_blank">Resume</a>
  
-- 📄 Go to leetcode profile :- <a href="https://leetcode.com/utkarsh_qw/">utkarsh_qw</a>
+- 📄 Go to leetcode profile  <a href="https://leetcode.com/utkarsh_qw/">utkarsh_qw</a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
