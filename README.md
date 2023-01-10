@@ -49,11 +49,12 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/utkarsh_qw?theme=default&font=baloo&extension=null)
   
 <!-- </p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshqw&show_icons=true&locale=en" alt="utkarshqw" /></p>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/utkarsh_qw?theme=default&font=baloo&extension=null)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" /></p>
