@@ -53,10 +53,14 @@
 
   
 <!-- </p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" /></p>
-![LeetCode Stats](https://leetcode.card.workers.dev/utkarsh_qw?theme=default&font=baloo&extension=null)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshqw&show_icons=true&locale=en" alt="utkarshqw" /></p>
+<div>
+<img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" />
+<img align="top" src="https://leetcode.card.workers.dev/utkarsh_qw?theme=wtf&font=baloo&extension=null" />
+ </div>
+<div>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" />
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=utkarshqw&show_icons=true&locale=en" alt="utkarshqw" />
+</div>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" /></p>
