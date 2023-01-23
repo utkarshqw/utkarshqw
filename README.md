@@ -53,9 +53,9 @@
 
   
 <!-- </p> -->
-<div>
-<img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" />
-<img align="top" src="https://leetcode.card.workers.dev/utkarsh_qw?theme=wtf&font=baloo&extension=null" />
+<div style={display:"flex"}>
+<img   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" />
+<img  src="https://leetcode.card.workers.dev/utkarsh_qw?theme=wtf&font=baloo&extension=null" />
  </div>
 <div>
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshqw&show_icons=true&locale=en&layout=compact" alt="utkarshqw" />
