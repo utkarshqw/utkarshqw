@@ -61,7 +61,7 @@
 </div>
 <div style={display:"flex"}>
 <img  style={width:"50%"} src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshqw&" alt="utkarshqw" />
-<a href="https://leetcode.com/utkarsh_qw/"><img  style={width:"50%"}  src="https://leetcode.card.workers.dev/utkarsh_qw?theme=wtf&font=baloo&extension=null" /></a>
+<a target="_blank" href="https://leetcode.com/utkarsh_qw/"><img  style={width:"50%"}  src="https://leetcode.card.workers.dev/utkarsh_qw?theme=wtf&font=baloo&extension=null" /></a>
  </div>
 
 
