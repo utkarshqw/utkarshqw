@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **utkarshup75@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/drive/folders/1bn0S32doJmGPnaNppuODXEqu-BszAV3S" target="_blank">Resume</a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1Vl9iRGDhsI5wVj8nXrfbbXStEYFEUsDD/view?usp=sharing" target="_blank">Resume</a>
  
 - 📄 Go to leetcode profile  <a href="https://leetcode.com/utkarsh_qw/">utkarsh_qw</a>
 
