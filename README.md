@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshqw" alt="utkarshqw" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/utkarsh62641724" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh62641724?logo=twitter&style=for-the-badge" alt="utkarsh62641724" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/utkarsh62641724" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh62641724?logo=twitter&style=for-the-badge" alt="utkarsh62641724" /></a> </p> -->
 
-- 🌱 I’m currently learning **Backtracking, DP, Redux toolkit.**
+- 🌱 I’m currently learning mySQL.
 
 - 👨‍💻 All of my projects are available at [https://utkarshqw.github.io/](https://utkarshqw.github.io/)
 
