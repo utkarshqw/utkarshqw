@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
-<h3 align="center">A beginner frontend MERN developer who loves to learn new things and make great projects. Also loves to collaborate with other passionate people</h3>
+<h3 align="center">MERN stack developer who loves to learn new things and make great projects. Also loves to collaborate with other passionate people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshqw&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshqw" /> </p>
 
